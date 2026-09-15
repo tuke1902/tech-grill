@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Grill"
+  short_description: "Stress-test engineering decisions before implementation"
+  default_prompt: "Use $tech-grill to pressure-test this engineering plan before implementation."
